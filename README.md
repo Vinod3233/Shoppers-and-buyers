@@ -44,22 +44,4 @@ This project analyzes a dataset of 12,300+ customer purchase records across vari
 * **Python** (Pandas, NumPy, Seaborn, Scikit-learn)
 * **Machine Learning**: Random Forest Regressor
 * **EDA**: Matplotlib, Seaborn
-* *(Optional deployment via Streamlit and GitHub)*
-
----
-
-##  Next Steps
-
-* Add performance metrics (RMSE, R² Score)
-* Try other models (Gradient Boosting, XGBoost)
-* Streamlit deployment for interactive analysis
-
----
-
-##  Business Impact
-
-This project can help businesses:
-
-* Predict buying behavior of customers
-* Personalize marketing strategies
-* Improve inventory and pricing decisions
+* *(Optional deployment via Streamlit and GitHub
